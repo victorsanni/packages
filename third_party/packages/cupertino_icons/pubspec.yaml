@@ -26,3 +26,7 @@ topics:
   - assets
   - icons
   - ui
+dependencies:
+  html: ^0.15.4
+  icon_font_generator: ^4.0.0
+  path: ^1.9.0
