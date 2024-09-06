@@ -1,0 +1,3682 @@
+{
+  "name": "CupertinoIcons",
+  "icons": {
+    "airplane": [
+      62676
+    ],
+    "alarm": [
+      62677
+    ],
+    "alarm_fill": [
+      62678
+    ],
+    "alt": [
+      62679
+    ],
+    "ant": [
+      62680
+    ],
+    "ant_circle": [
+      62681
+    ],
+    "ant_circle_fill": [
+      62682
+    ],
+    "ant_fill": [
+      62683
+    ],
+    "antenna_radiowaves_left_right": [
+      62684
+    ],
+    "app": [
+      62685
+    ],
+    "app_badge": [
+      62686
+    ],
+    "app_badge_fill": [
+      62687
+    ],
+    "app_fill": [
+      62688
+    ],
+    "archivebox": [
+      62689
+    ],
+    "archivebox_fill": [
+      62690
+    ],
+    "arrow_2_circlepath": [
+      62691
+    ],
+    "arrow_2_circlepath_circle": [
+      62692
+    ],
+    "arrow_2_circlepath_circle_fill": [
+      62693
+    ],
+    "arrow_2_squarepath": [
+      62694
+    ],
+    "arrow_3_trianglepath": [
+      62695
+    ],
+    "arrow_branch": [
+      62696
+    ],
+    "arrow_clockwise": [
+      62618,
+      62621,
+      62376
+    ],
+    "arrow_clockwise_circle": [
+      62619
+    ],
+    "arrow_clockwise_circle_fill": [
+      62620
+    ],
+    "arrow_counterclockwise": [
+      61980
+    ],
+    "arrow_counterclockwise_circle": [
+      62697
+    ],
+    "arrow_counterclockwise_circle_fill": [
+      62698
+    ],
+    "arrow_down": [
+      62301
+    ],
+    "arrow_down_circle": [
+      62699
+    ],
+    "arrow_down_circle_fill": [
+      62700
+    ],
+    "arrow_down_doc": [
+      62701
+    ],
+    "arrow_down_doc_fill": [
+      62702
+    ],
+    "arrow_down_left": [
+      62703
+    ],
+    "arrow_down_left_circle": [
+      62704
+    ],
+    "arrow_down_left_circle_fill": [
+      62705
+    ],
+    "arrow_down_left_square": [
+      62706
+    ],
+    "arrow_down_left_square_fill": [
+      62707
+    ],
+    "arrow_down_right": [
+      62708
+    ],
+    "arrow_down_right_arrow_up_left": [
+      62333
+    ],
+    "arrow_down_right_circle": [
+      62709
+    ],
+    "arrow_down_right_circle_fill": [
+      62710
+    ],
+    "arrow_down_right_square": [
+      62711
+    ],
+    "arrow_down_right_square_fill": [
+      62712
+    ],
+    "arrow_down_square": [
+      62713
+    ],
+    "arrow_down_square_fill": [
+      62714
+    ],
+    "arrow_down_to_line": [
+      62715
+    ],
+    "arrow_down_to_line_alt": [
+      62716
+    ],
+    "arrow_left": [
+      62717
+    ],
+    "arrow_left_circle": [
+      62718
+    ],
+    "arrow_left_circle_fill": [
+      62719
+    ],
+    "arrow_left_right": [
+      62720
+    ],
+    "arrow_left_right_circle": [
+      62721
+    ],
+    "arrow_left_right_circle_fill": [
+      62722
+    ],
+    "arrow_left_right_square": [
+      62723
+    ],
+    "arrow_left_right_square_fill": [
+      62724
+    ],
+    "arrow_left_square": [
+      62725
+    ],
+    "arrow_left_square_fill": [
+      62726
+    ],
+    "arrow_left_to_line": [
+      62727
+    ],
+    "arrow_left_to_line_alt": [
+      62728
+    ],
+    "arrow_merge": [
+      62729
+    ],
+    "arrow_right": [
+      62730
+    ],
+    "arrow_right_arrow_left": [
+      62731
+    ],
+    "arrow_right_arrow_left_circle": [
+      62732
+    ],
+    "arrow_right_arrow_left_circle_fill": [
+      62733
+    ],
+    "arrow_right_arrow_left_square": [
+      62734
+    ],
+    "arrow_right_arrow_left_square_fill": [
+      62735
+    ],
+    "arrow_right_circle": [
+      62736
+    ],
+    "arrow_right_circle_fill": [
+      62737
+    ],
+    "arrow_right_square": [
+      62738
+    ],
+    "arrow_right_square_fill": [
+      62739
+    ],
+    "arrow_right_to_line": [
+      62740
+    ],
+    "arrow_right_to_line_alt": [
+      62741
+    ],
+    "arrow_swap": [
+      62742
+    ],
+    "arrow_turn_down_left": [
+      62743
+    ],
+    "arrow_turn_down_right": [
+      62744
+    ],
+    "arrow_turn_left_down": [
+      62745
+    ],
+    "arrow_turn_left_up": [
+      62746
+    ],
+    "arrow_turn_right_down": [
+      62747
+    ],
+    "arrow_turn_right_up": [
+      62748
+    ],
+    "arrow_turn_up_left": [
+      62749
+    ],
+    "arrow_turn_up_right": [
+      62750
+    ],
+    "arrow_up": [
+      62310
+    ],
+    "arrow_up_arrow_down": [
+      62751
+    ],
+    "arrow_up_arrow_down_circle": [
+      62752
+    ],
+    "arrow_up_arrow_down_circle_fill": [
+      62753
+    ],
+    "arrow_up_arrow_down_square": [
+      62754
+    ],
+    "arrow_up_arrow_down_square_fill": [
+      62755
+    ],
+    "arrow_up_bin": [
+      62756
+    ],
+    "arrow_up_bin_fill": [
+      62757
+    ],
+    "arrow_up_circle": [
+      62758
+    ],
+    "arrow_up_circle_fill": [
+      62759
+    ],
+    "arrow_up_doc": [
+      62760
+    ],
+    "arrow_up_doc_fill": [
+      62761
+    ],
+    "arrow_up_down": [
+      62762
+    ],
+    "arrow_up_down_circle": [
+      62763
+    ],
+    "arrow_up_down_circle_fill": [
+      62764
+    ],
+    "arrow_up_down_square": [
+      62765
+    ],
+    "arrow_up_down_square_fill": [
+      62766
+    ],
+    "arrow_up_left": [
+      62767
+    ],
+    "arrow_up_left_arrow_down_right": [
+      62342
+    ],
+    "arrow_up_left_circle": [
+      62768
+    ],
+    "arrow_up_left_circle_fill": [
+      62769
+    ],
+    "arrow_up_left_square": [
+      62770
+    ],
+    "arrow_up_left_square_fill": [
+      62771
+    ],
+    "arrow_up_right": [
+      62772
+    ],
+    "arrow_up_right_circle": [
+      62773
+    ],
+    "arrow_up_right_circle_fill": [
+      62774
+    ],
+    "arrow_up_right_diamond": [
+      62775
+    ],
+    "arrow_up_right_diamond_fill": [
+      62776
+    ],
+    "arrow_up_right_square": [
+      62777
+    ],
+    "arrow_up_right_square_fill": [
+      62778
+    ],
+    "arrow_up_square": [
+      62779
+    ],
+    "arrow_up_square_fill": [
+      62780
+    ],
+    "arrow_up_to_line": [
+      62781
+    ],
+    "arrow_up_to_line_alt": [
+      62782
+    ],
+    "arrow_uturn_down": [
+      62783
+    ],
+    "arrow_uturn_down_circle": [
+      62784
+    ],
+    "arrow_uturn_down_circle_fill": [
+      62785
+    ],
+    "arrow_uturn_down_square": [
+      62786
+    ],
+    "arrow_uturn_down_square_fill": [
+      62787
+    ],
+    "arrow_uturn_left": [
+      62788
+    ],
+    "arrow_uturn_left_circle": [
+      62789
+    ],
+    "arrow_uturn_left_circle_fill": [
+      62790
+    ],
+    "arrow_uturn_left_square": [
+      62791
+    ],
+    "arrow_uturn_left_square_fill": [
+      62792
+    ],
+    "arrow_uturn_right": [
+      62793
+    ],
+    "arrow_uturn_right_circle": [
+      62794
+    ],
+    "arrow_uturn_right_circle_fill": [
+      62795
+    ],
+    "arrow_uturn_right_square": [
+      62796
+    ],
+    "arrow_uturn_right_square_fill": [
+      62797
+    ],
+    "arrow_uturn_up": [
+      62798
+    ],
+    "arrow_uturn_up_circle": [
+      62799
+    ],
+    "arrow_uturn_up_circle_fill": [
+      62800
+    ],
+    "arrow_uturn_up_square": [
+      62801
+    ],
+    "arrow_uturn_up_square_fill": [
+      62802
+    ],
+    "arrowshape_turn_up_left": [
+      62662
+    ],
+    "arrowshape_turn_up_left_2": [
+      61981
+    ],
+    "arrowshape_turn_up_left_2_fill": [
+      61982
+    ],
+    "arrowshape_turn_up_left_circle": [
+      62803
+    ],
+    "arrowshape_turn_up_left_circle_fill": [
+      62804
+    ],
+    "arrowshape_turn_up_left_fill": [
+      62805
+    ],
+    "arrowshape_turn_up_right": [
+      62806
+    ],
+    "arrowshape_turn_up_right_circle": [
+      62807
+    ],
+    "arrowshape_turn_up_right_circle_fill": [
+      62808
+    ],
+    "arrowshape_turn_up_right_fill": [
+      62809
+    ],
+    "arrowtriangle_down": [
+      62810
+    ],
+    "arrowtriangle_down_circle": [
+      62811
+    ],
+    "arrowtriangle_down_circle_fill": [
+      62812
+    ],
+    "arrowtriangle_down_fill": [
+      62813
+    ],
+    "arrowtriangle_down_square": [
+      62814
+    ],
+    "arrowtriangle_down_square_fill": [
+      62815
+    ],
+    "arrowtriangle_left": [
+      62816
+    ],
+    "arrowtriangle_left_circle": [
+      62817
+    ],
+    "arrowtriangle_left_circle_fill": [
+      62818
+    ],
+    "arrowtriangle_left_fill": [
+      62819
+    ],
+    "arrowtriangle_left_square": [
+      62820
+    ],
+    "arrowtriangle_left_square_fill": [
+      62821
+    ],
+    "arrowtriangle_right": [
+      62822
+    ],
+    "arrowtriangle_right_circle": [
+      62823
+    ],
+    "arrowtriangle_right_circle_fill": [
+      62824
+    ],
+    "arrowtriangle_right_fill": [
+      62825
+    ],
+    "arrowtriangle_right_square": [
+      62826
+    ],
+    "arrowtriangle_right_square_fill": [
+      62827
+    ],
+    "arrowtriangle_up": [
+      62828
+    ],
+    "arrowtriangle_up_circle": [
+      62829
+    ],
+    "arrowtriangle_up_circle_fill": [
+      62830
+    ],
+    "arrowtriangle_up_fill": [
+      62831
+    ],
+    "arrowtriangle_up_square": [
+      62832
+    ],
+    "arrowtriangle_up_square_fill": [
+      62833
+    ],
+    "asterisk_circle": [
+      62834
+    ],
+    "asterisk_circle_fill": [
+      62835
+    ],
+    "at": [
+      62836
+    ],
+    "at_badge_minus": [
+      62837
+    ],
+    "at_badge_plus": [
+      62838
+    ],
+    "at_circle": [
+      63664
+    ],
+    "at_circle_fill": [
+      63665
+    ],
+    "backward": [
+      62839
+    ],
+    "backward_end": [
+      62840
+    ],
+    "backward_end_alt": [
+      62841
+    ],
+    "backward_end_alt_fill": [
+      62842
+    ],
+    "backward_end_fill": [
+      62843
+    ],
+    "backward_fill": [
+      62844
+    ],
+    "badge_plus_radiowaves_right": [
+      62845
+    ],
+    "bag": [
+      62846
+    ],
+    "bag_badge_minus": [
+      62847
+    ],
+    "bag_badge_plus": [
+      62848
+    ],
+    "bag_fill": [
+      62849
+    ],
+    "bag_fill_badge_minus": [
+      62850
+    ],
+    "bag_fill_badge_plus": [
+      62851
+    ],
+    "bandage": [
+      62852
+    ],
+    "bandage_fill": [
+      62853
+    ],
+    "barcode": [
+      62854
+    ],
+    "barcode_viewfinder": [
+      62855
+    ],
+    "bars": [
+      63666
+    ],
+    "battery_0": [
+      61714
+    ],
+    "battery_100": [
+      61715,
+      61713,
+      61716
+    ],
+    "battery_25": [
+      61717
+    ],
+    "bed_double": [
+      62856
+    ],
+    "bed_double_fill": [
+      62857
+    ],
+    "bell": [
+      62433
+    ],
+    "bell_circle": [
+      62858
+    ],
+    "bell_circle_fill": [
+      62859
+    ],
+    "bell_fill": [
+      62434
+    ],
+    "bell_slash": [
+      62860
+    ],
+    "bell_slash_fill": [
+      62861
+    ],
+    "bin_xmark": [
+      62862
+    ],
+    "bin_xmark_fill": [
+      62863
+    ],
+    "bitcoin": [
+      63667
+    ],
+    "bitcoin_circle": [
+      63668
+    ],
+    "bitcoin_circle_fill": [
+      63669
+    ],
+    "bluetooth": [
+      61718
+    ],
+    "bold": [
+      62864
+    ],
+    "bold_italic_underline": [
+      62865
+    ],
+    "bold_underline": [
+      62866
+    ],
+    "bolt": [
+      62867
+    ],
+    "bolt_badge_a": [
+      62868
+    ],
+    "bolt_badge_a_fill": [
+      62869
+    ],
+    "bolt_circle": [
+      62870
+    ],
+    "bolt_circle_fill": [
+      62871
+    ],
+    "bolt_fill": [
+      62872
+    ],
+    "bolt_horizontal": [
+      62873
+    ],
+    "bolt_horizontal_circle": [
+      62874
+    ],
+    "bolt_horizontal_circle_fill": [
+      62875
+    ],
+    "bolt_horizontal_fill": [
+      62876
+    ],
+    "bolt_slash": [
+      62877
+    ],
+    "bolt_slash_fill": [
+      62878
+    ],
+    "book": [
+      62439
+    ],
+    "book_circle": [
+      62879
+    ],
+    "book_circle_fill": [
+      62880
+    ],
+    "book_fill": [
+      62440
+    ],
+    "bookmark": [
+      62441
+    ],
+    "bookmark_fill": [
+      62442
+    ],
+    "briefcase": [
+      62881
+    ],
+    "briefcase_fill": [
+      62882
+    ],
+    "bubble_left": [
+      62883
+    ],
+    "bubble_left_bubble_right": [
+      62884
+    ],
+    "bubble_left_bubble_right_fill": [
+      62885
+    ],
+    "bubble_left_fill": [
+      62886
+    ],
+    "bubble_middle_bottom": [
+      62887
+    ],
+    "bubble_middle_bottom_fill": [
+      62888
+    ],
+    "bubble_middle_top": [
+      62889
+    ],
+    "bubble_middle_top_fill": [
+      62890
+    ],
+    "bubble_right": [
+      62891
+    ],
+    "bubble_right_fill": [
+      62892
+    ],
+    "building_2_fill": [
+      63670
+    ],
+    "burn": [
+      62893
+    ],
+    "burst": [
+      62894
+    ],
+    "burst_fill": [
+      62895
+    ],
+    "bus": [
+      62317
+    ],
+    "calendar": [
+      62896
+    ],
+    "calendar_badge_minus": [
+      62897
+    ],
+    "calendar_badge_plus": [
+      62898
+    ],
+    "calendar_circle": [
+      62899
+    ],
+    "calendar_circle_fill": [
+      62900
+    ],
+    "calendar_today": [
+      63671
+    ],
+    "camera": [
+      62453
+    ],
+    "camera_circle": [
+      62901
+    ],
+    "camera_circle_fill": [
+      62902
+    ],
+    "camera_fill": [
+      62454
+    ],
+    "camera_on_rectangle": [
+      62903
+    ],
+    "camera_on_rectangle_fill": [
+      62904
+    ],
+    "camera_rotate": [
+      62622
+    ],
+    "camera_rotate_fill": [
+      62623
+    ],
+    "camera_viewfinder": [
+      62905
+    ],
+    "capslock": [
+      62906
+    ],
+    "capslock_fill": [
+      62907
+    ],
+    "capsule": [
+      62908
+    ],
+    "capsule_fill": [
+      62909
+    ],
+    "captions_bubble": [
+      62910
+    ],
+    "captions_bubble_fill": [
+      62911
+    ],
+    "car": [
+      62319
+    ],
+    "car_detailed": [
+      62145
+    ],
+    "car_fill": [
+      62912
+    ],
+    "cart": [
+      62455
+    ],
+    "cart_badge_minus": [
+      62913
+    ],
+    "cart_badge_plus": [
+      62914
+    ],
+    "cart_fill": [
+      62915
+    ],
+    "cart_fill_badge_minus": [
+      62916
+    ],
+    "cart_fill_badge_plus": [
+      62917
+    ],
+    "chart_bar": [
+      62918
+    ],
+    "chart_bar_alt_fill": [
+      63672
+    ],
+    "chart_bar_circle": [
+      63673
+    ],
+    "chart_bar_circle_fill": [
+      63674
+    ],
+    "chart_bar_fill": [
+      62919
+    ],
+    "chart_bar_square": [
+      63675
+    ],
+    "chart_bar_square_fill": [
+      63676
+    ],
+    "chart_pie": [
+      62920
+    ],
+    "chart_pie_fill": [
+      62921
+    ],
+    "chat_bubble": [
+      62459
+    ],
+    "chat_bubble_2": [
+      63677
+    ],
+    "chat_bubble_2_fill": [
+      63678
+    ],
+    "chat_bubble_fill": [
+      63679
+    ],
+    "chat_bubble_text": [
+      63680
+    ],
+    "chat_bubble_text_fill": [
+      63681
+    ],
+    "checkmark": [
+      62461
+    ],
+    "checkmark_alt": [
+      63682
+    ],
+    "checkmark_alt_circle": [
+      63683
+    ],
+    "checkmark_alt_circle_fill": [
+      63684
+    ],
+    "checkmark_circle": [
+      62462
+    ],
+    "checkmark_circle_fill": [
+      62463
+    ],
+    "checkmark_rectangle": [
+      62922
+    ],
+    "checkmark_rectangle_fill": [
+      62923
+    ],
+    "checkmark_seal": [
+      62924
+    ],
+    "checkmark_seal_fill": [
+      62925
+    ],
+    "checkmark_shield": [
+      62926
+    ],
+    "checkmark_shield_fill": [
+      62927
+    ],
+    "checkmark_square": [
+      62928
+    ],
+    "checkmark_square_fill": [
+      62929
+    ],
+    "chevron_back": [
+      62415
+    ],
+    "chevron_compact_down": [
+      62930
+    ],
+    "chevron_compact_left": [
+      62931
+    ],
+    "chevron_compact_right": [
+      62932
+    ],
+    "chevron_compact_up": [
+      62933
+    ],
+    "chevron_down": [
+      62934
+    ],
+    "chevron_down_circle": [
+      62935
+    ],
+    "chevron_down_circle_fill": [
+      62936
+    ],
+    "chevron_down_square": [
+      62937
+    ],
+    "chevron_down_square_fill": [
+      62938
+    ],
+    "chevron_forward": [
+      62417
+    ],
+    "chevron_left": [
+      62418
+    ],
+    "chevron_left_2": [
+      62939
+    ],
+    "chevron_left_circle": [
+      62940
+    ],
+    "chevron_left_circle_fill": [
+      62941
+    ],
+    "chevron_left_slash_chevron_right": [
+      62942
+    ],
+    "chevron_left_square": [
+      62943
+    ],
+    "chevron_left_square_fill": [
+      62944
+    ],
+    "chevron_right": [
+      62419
+    ],
+    "chevron_right_2": [
+      62945
+    ],
+    "chevron_right_circle": [
+      62946
+    ],
+    "chevron_right_circle_fill": [
+      62947
+    ],
+    "chevron_right_square": [
+      62948
+    ],
+    "chevron_right_square_fill": [
+      62949
+    ],
+    "chevron_up": [
+      62950
+    ],
+    "chevron_up_chevron_down": [
+      62951
+    ],
+    "chevron_up_circle": [
+      62952
+    ],
+    "chevron_up_circle_fill": [
+      62953
+    ],
+    "chevron_up_square": [
+      62954
+    ],
+    "chevron_up_square_fill": [
+      62955
+    ],
+    "circle": [
+      62465
+    ],
+    "circle_bottomthird_split": [
+      62956
+    ],
+    "circle_fill": [
+      62464
+    ],
+    "circle_grid_3x3": [
+      62957
+    ],
+    "circle_grid_3x3_fill": [
+      62958
+    ],
+    "circle_grid_hex": [
+      62959
+    ],
+    "circle_grid_hex_fill": [
+      62960
+    ],
+    "circle_lefthalf_fill": [
+      62961
+    ],
+    "circle_righthalf_fill": [
+      62962
+    ],
+    "clear": [
+      62963
+    ],
+    "clear_fill": [
+      62964
+    ],
+    "clock": [
+      62466,
+      62654
+    ],
+    "clock_fill": [
+      62467,
+      62655
+    ],
+    "cloud": [
+      62965
+    ],
+    "cloud_bolt": [
+      62966
+    ],
+    "cloud_bolt_fill": [
+      62967
+    ],
+    "cloud_bolt_rain": [
+      62968
+    ],
+    "cloud_bolt_rain_fill": [
+      62969
+    ],
+    "cloud_download": [
+      63685
+    ],
+    "cloud_download_fill": [
+      63686
+    ],
+    "cloud_drizzle": [
+      62970
+    ],
+    "cloud_drizzle_fill": [
+      62971
+    ],
+    "cloud_fill": [
+      62972
+    ],
+    "cloud_fog": [
+      62973
+    ],
+    "cloud_fog_fill": [
+      62974
+    ],
+    "cloud_hail": [
+      62975
+    ],
+    "cloud_hail_fill": [
+      62976
+    ],
+    "cloud_heavyrain": [
+      62977
+    ],
+    "cloud_heavyrain_fill": [
+      62978
+    ],
+    "cloud_moon": [
+      62979
+    ],
+    "cloud_moon_bolt": [
+      62980
+    ],
+    "cloud_moon_bolt_fill": [
+      62981
+    ],
+    "cloud_moon_fill": [
+      62982
+    ],
+    "cloud_moon_rain": [
+      62983
+    ],
+    "cloud_moon_rain_fill": [
+      62984
+    ],
+    "cloud_rain": [
+      62985
+    ],
+    "cloud_rain_fill": [
+      62986
+    ],
+    "cloud_sleet": [
+      62987
+    ],
+    "cloud_sleet_fill": [
+      62988
+    ],
+    "cloud_snow": [
+      62989
+    ],
+    "cloud_snow_fill": [
+      62990
+    ],
+    "cloud_sun": [
+      62991
+    ],
+    "cloud_sun_bolt": [
+      62992
+    ],
+    "cloud_sun_bolt_fill": [
+      62993
+    ],
+    "cloud_sun_fill": [
+      62994
+    ],
+    "cloud_sun_rain": [
+      62995
+    ],
+    "cloud_sun_rain_fill": [
+      62996
+    ],
+    "cloud_upload": [
+      63687
+    ],
+    "cloud_upload_fill": [
+      63688
+    ],
+    "color_filter": [
+      63689
+    ],
+    "color_filter_fill": [
+      63690
+    ],
+    "command": [
+      62997
+    ],
+    "compass": [
+      63691
+    ],
+    "compass_fill": [
+      63692
+    ],
+    "control": [
+      62998
+    ],
+    "creditcard": [
+      62999
+    ],
+    "creditcard_fill": [
+      63000
+    ],
+    "crop": [
+      63001
+    ],
+    "crop_rotate": [
+      63002
+    ],
+    "cube": [
+      63003
+    ],
+    "cube_box": [
+      63004
+    ],
+    "cube_box_fill": [
+      63005
+    ],
+    "cube_fill": [
+      63006
+    ],
+    "cursor_rays": [
+      63007
+    ],
+    "decrease_indent": [
+      63008
+    ],
+    "decrease_quotelevel": [
+      63009
+    ],
+    "delete_left": [
+      63010
+    ],
+    "delete_left_fill": [
+      63011
+    ],
+    "delete_right": [
+      63012
+    ],
+    "delete_right_fill": [
+      63013
+    ],
+    "desktopcomputer": [
+      63014
+    ],
+    "device_desktop": [
+      63693
+    ],
+    "device_laptop": [
+      63694
+    ],
+    "device_phone_landscape": [
+      63695
+    ],
+    "device_phone_portrait": [
+      63696
+    ],
+    "dial": [
+      63015
+    ],
+    "dial_fill": [
+      63016
+    ],
+    "divide": [
+      63017
+    ],
+    "divide_circle": [
+      63018
+    ],
+    "divide_circle_fill": [
+      63019
+    ],
+    "divide_square": [
+      63020
+    ],
+    "divide_square_fill": [
+      63021
+    ],
+    "doc": [
+      63022
+    ],
+    "doc_append": [
+      63023
+    ],
+    "doc_chart": [
+      63697
+    ],
+    "doc_chart_fill": [
+      63698
+    ],
+    "doc_checkmark": [
+      63699
+    ],
+    "doc_checkmark_fill": [
+      63700
+    ],
+    "doc_circle": [
+      63024
+    ],
+    "doc_circle_fill": [
+      63025
+    ],
+    "doc_fill": [
+      63026
+    ],
+    "doc_on_clipboard": [
+      63027
+    ],
+    "doc_on_clipboard_fill": [
+      63028
+    ],
+    "doc_on_doc": [
+      63029
+    ],
+    "doc_on_doc_fill": [
+      63030
+    ],
+    "doc_person": [
+      63701
+    ],
+    "doc_person_fill": [
+      63702
+    ],
+    "doc_plaintext": [
+      63031
+    ],
+    "doc_richtext": [
+      63032
+    ],
+    "doc_text": [
+      63033
+    ],
+    "doc_text_fill": [
+      63034
+    ],
+    "doc_text_search": [
+      63035
+    ],
+    "doc_text_viewfinder": [
+      63036
+    ],
+    "dot_radiowaves_left_right": [
+      63037
+    ],
+    "dot_radiowaves_right": [
+      63038
+    ],
+    "dot_square": [
+      63039
+    ],
+    "dot_square_fill": [
+      63040
+    ],
+    "download_circle": [
+      63703
+    ],
+    "download_circle_fill": [
+      63704
+    ],
+    "drop": [
+      63705
+    ],
+    "drop_fill": [
+      63706
+    ],
+    "drop_triangle": [
+      63041
+    ],
+    "drop_triangle_fill": [
+      63042
+    ],
+    "ear": [
+      63043
+    ],
+    "eject": [
+      63044
+    ],
+    "eject_fill": [
+      63045
+    ],
+    "ellipses_bubble": [
+      63046
+    ],
+    "ellipses_bubble_fill": [
+      63047
+    ],
+    "ellipsis": [
+      62570
+    ],
+    "ellipsis_circle": [
+      63048
+    ],
+    "ellipsis_circle_fill": [
+      63049
+    ],
+    "ellipsis_vertical": [
+      63707
+    ],
+    "ellipsis_vertical_circle": [
+      63708
+    ],
+    "ellipsis_vertical_circle_fill": [
+      63709
+    ],
+    "envelope": [
+      62498
+    ],
+    "envelope_badge": [
+      63050
+    ],
+    "envelope_badge_fill": [
+      63051
+    ],
+    "envelope_circle": [
+      63052
+    ],
+    "envelope_circle_fill": [
+      63053
+    ],
+    "envelope_fill": [
+      62499
+    ],
+    "envelope_open": [
+      63054
+    ],
+    "envelope_open_fill": [
+      63055
+    ],
+    "equal": [
+      63056
+    ],
+    "equal_circle": [
+      63057
+    ],
+    "equal_circle_fill": [
+      63058
+    ],
+    "equal_square": [
+      63059
+    ],
+    "equal_square_fill": [
+      63060
+    ],
+    "escape": [
+      63061
+    ],
+    "exclamationmark": [
+      63062
+    ],
+    "exclamationmark_bubble": [
+      63063
+    ],
+    "exclamationmark_bubble_fill": [
+      63064
+    ],
+    "exclamationmark_circle": [
+      63065
+    ],
+    "exclamationmark_circle_fill": [
+      63066
+    ],
+    "exclamationmark_octagon": [
+      63067
+    ],
+    "exclamationmark_octagon_fill": [
+      63068
+    ],
+    "exclamationmark_shield": [
+      63069
+    ],
+    "exclamationmark_shield_fill": [
+      63070
+    ],
+    "exclamationmark_square": [
+      63071
+    ],
+    "exclamationmark_square_fill": [
+      63072
+    ],
+    "exclamationmark_triangle": [
+      63073
+    ],
+    "exclamationmark_triangle_fill": [
+      63074
+    ],
+    "eye": [
+      62500
+    ],
+    "eye_fill": [
+      62501
+    ],
+    "eye_slash": [
+      63075
+    ],
+    "eye_slash_fill": [
+      63076
+    ],
+    "eyedropper": [
+      63077
+    ],
+    "eyedropper_full": [
+      63078
+    ],
+    "eyedropper_halffull": [
+      63079
+    ],
+    "eyeglasses": [
+      63080
+    ],
+    "f_cursive": [
+      63081
+    ],
+    "f_cursive_circle": [
+      63082
+    ],
+    "f_cursive_circle_fill": [
+      63083
+    ],
+    "film": [
+      63084
+    ],
+    "film_fill": [
+      63085
+    ],
+    "flag": [
+      62508
+    ],
+    "flag_circle": [
+      63086
+    ],
+    "flag_circle_fill": [
+      63087
+    ],
+    "flag_fill": [
+      63088
+    ],
+    "flag_slash": [
+      63089
+    ],
+    "flag_slash_fill": [
+      63090
+    ],
+    "flame": [
+      63091
+    ],
+    "flame_fill": [
+      63092
+    ],
+    "floppy_disk": [
+      63710
+    ],
+    "flowchart": [
+      63093
+    ],
+    "flowchart_fill": [
+      63094
+    ],
+    "folder": [
+      62516,
+      62346
+    ],
+    "folder_badge_minus": [
+      63095
+    ],
+    "folder_badge_person_crop": [
+      63096
+    ],
+    "folder_badge_plus": [
+      63097
+    ],
+    "folder_circle": [
+      63098
+    ],
+    "folder_circle_fill": [
+      63099
+    ],
+    "folder_fill": [
+      62517
+    ],
+    "folder_fill_badge_minus": [
+      63100
+    ],
+    "folder_fill_badge_person_crop": [
+      63101
+    ],
+    "folder_fill_badge_plus": [
+      63102
+    ],
+    "forward": [
+      63103
+    ],
+    "forward_end": [
+      63104
+    ],
+    "forward_end_alt": [
+      63105
+    ],
+    "forward_end_alt_fill": [
+      63106
+    ],
+    "forward_end_fill": [
+      63107
+    ],
+    "forward_fill": [
+      63108
+    ],
+    "function": [
+      63109
+    ],
+    "fx": [
+      63110
+    ],
+    "gamecontroller": [
+      62522
+    ],
+    "gamecontroller_alt_fill": [
+      63711
+    ],
+    "gamecontroller_fill": [
+      62523
+    ],
+    "gauge": [
+      63111
+    ],
+    "gauge_badge_minus": [
+      63112
+    ],
+    "gauge_badge_plus": [
+      63113
+    ],
+    "gear": [
+      62481,
+      62482
+    ],
+    "gear_alt": [
+      62524,
+      62199
+    ],
+    "gear_alt_fill": [
+      62525
+    ],
+    "gift": [
+      63114
+    ],
+    "gift_alt": [
+      63115
+    ],
+    "gift_alt_fill": [
+      63116
+    ],
+    "gift_fill": [
+      63117
+    ],
+    "globe": [
+      63118
+    ],
+    "gobackward": [
+      63119
+    ],
+    "gobackward_10": [
+      63120
+    ],
+    "gobackward_15": [
+      63121
+    ],
+    "gobackward_30": [
+      63122
+    ],
+    "gobackward_45": [
+      63123
+    ],
+    "gobackward_60": [
+      63124
+    ],
+    "gobackward_75": [
+      63125
+    ],
+    "gobackward_90": [
+      63126
+    ],
+    "gobackward_minus": [
+      63127
+    ],
+    "goforward": [
+      63128
+    ],
+    "goforward_10": [
+      63129
+    ],
+    "goforward_15": [
+      63130
+    ],
+    "goforward_30": [
+      63131
+    ],
+    "goforward_45": [
+      63132
+    ],
+    "goforward_60": [
+      63133
+    ],
+    "goforward_75": [
+      63134
+    ],
+    "goforward_90": [
+      63135
+    ],
+    "goforward_plus": [
+      63136
+    ],
+    "graph_circle": [
+      63712
+    ],
+    "graph_circle_fill": [
+      63713
+    ],
+    "graph_square": [
+      63714
+    ],
+    "graph_square_fill": [
+      63715
+    ],
+    "greaterthan": [
+      63137
+    ],
+    "greaterthan_circle": [
+      63138
+    ],
+    "greaterthan_circle_fill": [
+      63139
+    ],
+    "greaterthan_square": [
+      63140
+    ],
+    "greaterthan_square_fill": [
+      63141
+    ],
+    "grid": [
+      63142
+    ],
+    "grid_circle": [
+      63143
+    ],
+    "grid_circle_fill": [
+      63144
+    ],
+    "guitars": [
+      63145
+    ],
+    "hammer": [
+      63146
+    ],
+    "hammer_fill": [
+      63147
+    ],
+    "hand_draw": [
+      63148
+    ],
+    "hand_draw_fill": [
+      63149
+    ],
+    "hand_point_left": [
+      63150
+    ],
+    "hand_point_left_fill": [
+      63151
+    ],
+    "hand_point_right": [
+      63152
+    ],
+    "hand_point_right_fill": [
+      63153
+    ],
+    "hand_raised": [
+      63154
+    ],
+    "hand_raised_fill": [
+      63155
+    ],
+    "hand_raised_slash": [
+      63156
+    ],
+    "hand_raised_slash_fill": [
+      63157
+    ],
+    "hand_thumbsdown": [
+      63158
+    ],
+    "hand_thumbsdown_fill": [
+      63159
+    ],
+    "hand_thumbsup": [
+      63160
+    ],
+    "hand_thumbsup_fill": [
+      63161
+    ],
+    "hare": [
+      63162
+    ],
+    "hare_fill": [
+      63163
+    ],
+    "headphones": [
+      63164
+    ],
+    "heart": [
+      62530
+    ],
+    "heart_circle": [
+      63165
+    ],
+    "heart_circle_fill": [
+      63166
+    ],
+    "heart_fill": [
+      62531
+    ],
+    "heart_slash": [
+      63167
+    ],
+    "heart_slash_circle": [
+      63168
+    ],
+    "heart_slash_circle_fill": [
+      63169
+    ],
+    "heart_slash_fill": [
+      63170
+    ],
+    "helm": [
+      63171
+    ],
+    "hexagon": [
+      63172
+    ],
+    "hexagon_fill": [
+      63173
+    ],
+    "hifispeaker": [
+      63174
+    ],
+    "hifispeaker_fill": [
+      63175
+    ],
+    "hourglass": [
+      63176
+    ],
+    "hourglass_bottomhalf_fill": [
+      63177
+    ],
+    "hourglass_tophalf_fill": [
+      63178
+    ],
+    "house": [
+      62535
+    ],
+    "house_alt": [
+      63716
+    ],
+    "house_alt_fill": [
+      63717
+    ],
+    "house_fill": [
+      63179
+    ],
+    "hurricane": [
+      63180
+    ],
+    "increase_indent": [
+      63181
+    ],
+    "increase_quotelevel": [
+      63182
+    ],
+    "infinite": [
+      62537,
+      62538
+    ],
+    "info": [
+      63183
+    ],
+    "info_circle": [
+      62540
+    ],
+    "info_circle_fill": [
+      63184
+    ],
+    "italic": [
+      63185
+    ],
+    "keyboard": [
+      63186
+    ],
+    "keyboard_chevron_compact_down": [
+      63187
+    ],
+    "lab_flask": [
+      62512
+    ],
+    "lab_flask_solid": [
+      62513
+    ],
+    "largecircle_fill_circle": [
+      63188
+    ],
+    "lasso": [
+      63189
+    ],
+    "layers": [
+      63718
+    ],
+    "layers_alt": [
+      63719
+    ],
+    "layers_alt_fill": [
+      63720
+    ],
+    "layers_fill": [
+      63721
+    ],
+    "leaf_arrow_circlepath": [
+      63190
+    ],
+    "lessthan": [
+      63191
+    ],
+    "lessthan_circle": [
+      63192
+    ],
+    "lessthan_circle_fill": [
+      63193
+    ],
+    "lessthan_square": [
+      63194
+    ],
+    "lessthan_square_fill": [
+      63195
+    ],
+    "light_max": [
+      63196
+    ],
+    "light_min": [
+      63197
+    ],
+    "lightbulb": [
+      63198
+    ],
+    "lightbulb_fill": [
+      63199
+    ],
+    "lightbulb_slash": [
+      63200
+    ],
+    "lightbulb_slash_fill": [
+      63201
+    ],
+    "line_horizontal_3": [
+      63202
+    ],
+    "line_horizontal_3_decrease": [
+      63203
+    ],
+    "line_horizontal_3_decrease_circle": [
+      63204
+    ],
+    "line_horizontal_3_decrease_circle_fill": [
+      63205
+    ],
+    "link": [
+      63206
+    ],
+    "link_circle": [
+      63207
+    ],
+    "link_circle_fill": [
+      63208
+    ],
+    "list_bullet": [
+      63209
+    ],
+    "list_bullet_below_rectangle": [
+      63210
+    ],
+    "list_bullet_indent": [
+      63211
+    ],
+    "list_dash": [
+      63212
+    ],
+    "list_number": [
+      63213
+    ],
+    "list_number_rtl": [
+      63214
+    ],
+    "location": [
+      63215
+    ],
+    "location_circle": [
+      63216
+    ],
+    "location_circle_fill": [
+      63217
+    ],
+    "location_fill": [
+      63218
+    ],
+    "location_north": [
+      63219
+    ],
+    "location_north_fill": [
+      63220
+    ],
+    "location_north_line": [
+      63221
+    ],
+    "location_north_line_fill": [
+      63222
+    ],
+    "location_slash": [
+      63223
+    ],
+    "location_slash_fill": [
+      63224
+    ],
+    "lock": [
+      62664
+    ],
+    "lock_circle": [
+      63225
+    ],
+    "lock_circle_fill": [
+      63226
+    ],
+    "lock_fill": [
+      62665
+    ],
+    "lock_open": [
+      63227
+    ],
+    "lock_open_fill": [
+      63228
+    ],
+    "lock_rotation": [
+      63229
+    ],
+    "lock_rotation_open": [
+      63230
+    ],
+    "lock_shield": [
+      63231
+    ],
+    "lock_shield_fill": [
+      63232
+    ],
+    "lock_slash": [
+      63233
+    ],
+    "lock_slash_fill": [
+      63234
+    ],
+    "macwindow": [
+      63235
+    ],
+    "map": [
+      63236
+    ],
+    "map_fill": [
+      63237
+    ],
+    "map_pin": [
+      63238
+    ],
+    "map_pin_ellipse": [
+      63239
+    ],
+    "map_pin_slash": [
+      63240
+    ],
+    "memories": [
+      63241
+    ],
+    "memories_badge_minus": [
+      63242
+    ],
+    "memories_badge_plus": [
+      63243
+    ],
+    "metronome": [
+      63244
+    ],
+    "mic": [
+      62560
+    ],
+    "mic_circle": [
+      63245
+    ],
+    "mic_circle_fill": [
+      63246
+    ],
+    "mic_fill": [
+      62561
+    ],
+    "mic_slash": [
+      62559
+    ],
+    "mic_slash_fill": [
+      63247
+    ],
+    "minus": [
+      63248
+    ],
+    "minus_circle": [
+      62563
+    ],
+    "minus_circle_fill": [
+      63249
+    ],
+    "minus_rectangle": [
+      63250
+    ],
+    "minus_rectangle_fill": [
+      63251
+    ],
+    "minus_slash_plus": [
+      63252
+    ],
+    "minus_square": [
+      63253
+    ],
+    "minus_square_fill": [
+      63254
+    ],
+    "money_dollar": [
+      63722
+    ],
+    "money_dollar_circle": [
+      63723
+    ],
+    "money_dollar_circle_fill": [
+      63724
+    ],
+    "money_euro": [
+      63725
+    ],
+    "money_euro_circle": [
+      63726
+    ],
+    "money_euro_circle_fill": [
+      63727
+    ],
+    "money_pound": [
+      63728
+    ],
+    "money_pound_circle": [
+      63729
+    ],
+    "money_pound_circle_fill": [
+      63730
+    ],
+    "money_rubl": [
+      63731
+    ],
+    "money_rubl_circle": [
+      63732
+    ],
+    "money_rubl_circle_fill": [
+      63733
+    ],
+    "money_yen": [
+      63734
+    ],
+    "money_yen_circle": [
+      63735
+    ],
+    "money_yen_circle_fill": [
+      63736
+    ],
+    "moon": [
+      63255
+    ],
+    "moon_circle": [
+      63256
+    ],
+    "moon_circle_fill": [
+      63257
+    ],
+    "moon_fill": [
+      63258
+    ],
+    "moon_stars": [
+      63259
+    ],
+    "moon_stars_fill": [
+      63260
+    ],
+    "moon_zzz": [
+      63261
+    ],
+    "moon_zzz_fill": [
+      63262
+    ],
+    "move": [
+      63737
+    ],
+    "multiply": [
+      63263
+    ],
+    "multiply_circle": [
+      63264
+    ],
+    "multiply_circle_fill": [
+      63265
+    ],
+    "multiply_square": [
+      63266
+    ],
+    "multiply_square_fill": [
+      63267
+    ],
+    "music_albums": [
+      63738
+    ],
+    "music_albums_fill": [
+      63739
+    ],
+    "music_house": [
+      63268
+    ],
+    "music_house_fill": [
+      63269
+    ],
+    "music_mic": [
+      63270
+    ],
+    "music_note": [
+      62571
+    ],
+    "music_note_2": [
+      62572
+    ],
+    "music_note_list": [
+      63271
+    ],
+    "news": [
+      62577
+    ],
+    "news_solid": [
+      62578
+    ],
+    "nosign": [
+      63272
+    ],
+    "number": [
+      63273
+    ],
+    "number_circle": [
+      63274
+    ],
+    "number_circle_fill": [
+      63275
+    ],
+    "number_square": [
+      63276
+    ],
+    "number_square_fill": [
+      63277
+    ],
+    "option": [
+      63278
+    ],
+    "paintbrush": [
+      63279
+    ],
+    "paintbrush_fill": [
+      63280
+    ],
+    "pano": [
+      63281
+    ],
+    "pano_fill": [
+      63282
+    ],
+    "paperclip": [
+      63283
+    ],
+    "paperplane": [
+      63284
+    ],
+    "paperplane_fill": [
+      63285
+    ],
+    "paragraph": [
+      63286
+    ],
+    "pause": [
+      62583
+    ],
+    "pause_circle": [
+      63287
+    ],
+    "pause_circle_fill": [
+      63288
+    ],
+    "pause_fill": [
+      62584
+    ],
+    "pause_rectangle": [
+      63289
+    ],
+    "pause_rectangle_fill": [
+      63290
+    ],
+    "paw": [
+      62586,
+      62585
+    ],
+    "pencil": [
+      62334,
+      62143
+    ],
+    "pencil_circle": [
+      63291
+    ],
+    "pencil_circle_fill": [
+      63292
+    ],
+    "pencil_ellipsis_rectangle": [
+      63293
+    ],
+    "pencil_outline": [
+      63294
+    ],
+    "pencil_slash": [
+      63295
+    ],
+    "percent": [
+      63296
+    ],
+    "person": [
+      62589
+    ],
+    "person_2": [
+      63297
+    ],
+    "person_2_alt": [
+      63740
+    ],
+    "person_2_fill": [
+      63298
+    ],
+    "person_2_square_stack": [
+      63299
+    ],
+    "person_2_square_stack_fill": [
+      63300
+    ],
+    "person_3": [
+      62587
+    ],
+    "person_3_fill": [
+      62588
+    ],
+    "person_alt": [
+      63741
+    ],
+    "person_alt_circle": [
+      63742
+    ],
+    "person_alt_circle_fill": [
+      63743
+    ],
+    "person_badge_minus": [
+      63301
+    ],
+    "person_badge_minus_fill": [
+      63302
+    ],
+    "person_badge_plus": [
+      62591
+    ],
+    "person_badge_plus_fill": [
+      62592
+    ],
+    "person_circle": [
+      63303
+    ],
+    "person_circle_fill": [
+      63304
+    ],
+    "person_crop_circle": [
+      62489
+    ],
+    "person_crop_circle_badge_checkmark": [
+      63305
+    ],
+    "person_crop_circle_badge_exclam": [
+      63306
+    ],
+    "person_crop_circle_badge_minus": [
+      63307
+    ],
+    "person_crop_circle_badge_plus": [
+      63308
+    ],
+    "person_crop_circle_badge_xmark": [
+      63309
+    ],
+    "person_crop_circle_fill": [
+      63310
+    ],
+    "person_crop_circle_fill_badge_checkmark": [
+      63311
+    ],
+    "person_crop_circle_fill_badge_exclam": [
+      63312
+    ],
+    "person_crop_circle_fill_badge_minus": [
+      63313
+    ],
+    "person_crop_circle_fill_badge_plus": [
+      63314
+    ],
+    "person_crop_circle_fill_badge_xmark": [
+      63315
+    ],
+    "person_crop_rectangle": [
+      63316
+    ],
+    "person_crop_rectangle_fill": [
+      63317
+    ],
+    "person_crop_square": [
+      63318
+    ],
+    "person_crop_square_fill": [
+      63319
+    ],
+    "person_fill": [
+      62590
+    ],
+    "personalhotspot": [
+      63320
+    ],
+    "perspective": [
+      63321
+    ],
+    "phone": [
+      62648
+    ],
+    "phone_arrow_down_left": [
+      63322
+    ],
+    "phone_arrow_right": [
+      63323
+    ],
+    "phone_arrow_up_right": [
+      63324
+    ],
+    "phone_badge_plus": [
+      63325
+    ],
+    "phone_circle": [
+      63326
+    ],
+    "phone_circle_fill": [
+      63327
+    ],
+    "phone_down": [
+      63328
+    ],
+    "phone_down_circle": [
+      63329
+    ],
+    "phone_down_circle_fill": [
+      63330
+    ],
+    "phone_down_fill": [
+      63331
+    ],
+    "phone_fill": [
+      62649
+    ],
+    "phone_fill_arrow_down_left": [
+      63332
+    ],
+    "phone_fill_arrow_right": [
+      63333
+    ],
+    "phone_fill_arrow_up_right": [
+      63334
+    ],
+    "phone_fill_badge_plus": [
+      63335
+    ],
+    "photo": [
+      63336
+    ],
+    "photo_fill": [
+      63337
+    ],
+    "photo_fill_on_rectangle_fill": [
+      63338
+    ],
+    "photo_on_rectangle": [
+      63339
+    ],
+    "piano": [
+      63744
+    ],
+    "pin": [
+      63340
+    ],
+    "pin_fill": [
+      63341
+    ],
+    "pin_slash": [
+      63342
+    ],
+    "pin_slash_fill": [
+      63343
+    ],
+    "placemark": [
+      62549
+    ],
+    "placemark_fill": [
+      62550
+    ],
+    "play": [
+      62599
+    ],
+    "play_circle": [
+      63344
+    ],
+    "play_circle_fill": [
+      63345
+    ],
+    "play_fill": [
+      62600
+    ],
+    "play_rectangle": [
+      63346
+    ],
+    "play_rectangle_fill": [
+      63347
+    ],
+    "playpause": [
+      63348
+    ],
+    "playpause_fill": [
+      63349
+    ],
+    "plus": [
+      62601
+    ],
+    "plus_app": [
+      63350
+    ],
+    "plus_app_fill": [
+      63351
+    ],
+    "plus_bubble": [
+      63352
+    ],
+    "plus_bubble_fill": [
+      63353
+    ],
+    "plus_circle": [
+      62602
+    ],
+    "plus_circle_fill": [
+      62603
+    ],
+    "plus_rectangle": [
+      63354
+    ],
+    "plus_rectangle_fill": [
+      63355
+    ],
+    "plus_rectangle_fill_on_rectangle_fill": [
+      63356
+    ],
+    "plus_rectangle_on_rectangle": [
+      63357
+    ],
+    "plus_slash_minus": [
+      63358
+    ],
+    "plus_square": [
+      63359
+    ],
+    "plus_square_fill": [
+      63360
+    ],
+    "plus_square_fill_on_square_fill": [
+      63361
+    ],
+    "plus_square_on_square": [
+      63362
+    ],
+    "plusminus": [
+      63363
+    ],
+    "plusminus_circle": [
+      63364
+    ],
+    "plusminus_circle_fill": [
+      63365
+    ],
+    "power": [
+      63366
+    ],
+    "printer": [
+      63367
+    ],
+    "printer_fill": [
+      63368
+    ],
+    "projective": [
+      63369
+    ],
+    "purchased": [
+      63370
+    ],
+    "purchased_circle": [
+      63371
+    ],
+    "purchased_circle_fill": [
+      63372
+    ],
+    "qrcode": [
+      63373
+    ],
+    "qrcode_viewfinder": [
+      63374
+    ],
+    "question": [
+      63375
+    ],
+    "question_circle": [
+      63376
+    ],
+    "question_circle_fill": [
+      63377
+    ],
+    "question_diamond": [
+      63378
+    ],
+    "question_diamond_fill": [
+      63379
+    ],
+    "question_square": [
+      63380
+    ],
+    "question_square_fill": [
+      63381
+    ],
+    "quote_bubble": [
+      63382
+    ],
+    "quote_bubble_fill": [
+      63383
+    ],
+    "radiowaves_left": [
+      63384
+    ],
+    "radiowaves_right": [
+      63385
+    ],
+    "rays": [
+      63386
+    ],
+    "recordingtape": [
+      63387
+    ],
+    "rectangle": [
+      63388
+    ],
+    "rectangle_3_offgrid": [
+      63389
+    ],
+    "rectangle_3_offgrid_fill": [
+      63390
+    ],
+    "rectangle_arrow_up_right_arrow_down_left": [
+      63391
+    ],
+    "rectangle_arrow_up_right_arrow_down_left_slash": [
+      63392
+    ],
+    "rectangle_badge_checkmark": [
+      63393
+    ],
+    "rectangle_badge_xmark": [
+      63394
+    ],
+    "rectangle_compress_vertical": [
+      63395
+    ],
+    "rectangle_dock": [
+      63396
+    ],
+    "rectangle_expand_vertical": [
+      63397
+    ],
+    "rectangle_fill": [
+      63398
+    ],
+    "rectangle_fill_badge_checkmark": [
+      63399
+    ],
+    "rectangle_fill_badge_xmark": [
+      63400
+    ],
+    "rectangle_fill_on_rectangle_angled_fill": [
+      63401
+    ],
+    "rectangle_fill_on_rectangle_fill": [
+      63402
+    ],
+    "rectangle_grid_1x2": [
+      63403
+    ],
+    "rectangle_grid_1x2_fill": [
+      63404
+    ],
+    "rectangle_grid_2x2": [
+      63405
+    ],
+    "rectangle_grid_2x2_fill": [
+      63406
+    ],
+    "rectangle_grid_3x2": [
+      63407
+    ],
+    "rectangle_grid_3x2_fill": [
+      63408
+    ],
+    "rectangle_on_rectangle": [
+      63409
+    ],
+    "rectangle_on_rectangle_angled": [
+      63410
+    ],
+    "rectangle_paperclip": [
+      63411
+    ],
+    "rectangle_split_3x1": [
+      63412
+    ],
+    "rectangle_split_3x1_fill": [
+      63413
+    ],
+    "rectangle_split_3x3": [
+      63414
+    ],
+    "rectangle_split_3x3_fill": [
+      63415
+    ],
+    "rectangle_stack": [
+      62409
+    ],
+    "rectangle_stack_badge_minus": [
+      63416
+    ],
+    "rectangle_stack_badge_person_crop": [
+      63417
+    ],
+    "rectangle_stack_badge_plus": [
+      63418
+    ],
+    "rectangle_stack_fill": [
+      62410
+    ],
+    "rectangle_stack_fill_badge_minus": [
+      63419
+    ],
+    "rectangle_stack_fill_badge_person_crop": [
+      63420
+    ],
+    "rectangle_stack_fill_badge_plus": [
+      63421
+    ],
+    "rectangle_stack_person_crop": [
+      63422
+    ],
+    "rectangle_stack_person_crop_fill": [
+      63423
+    ],
+    "repeat": [
+      63424
+    ],
+    "repeat_1": [
+      63425
+    ],
+    "resize": [
+      63745
+    ],
+    "resize_h": [
+      63746
+    ],
+    "resize_v": [
+      63747
+    ],
+    "return_icon": [
+      63426
+    ],
+    "rhombus": [
+      63427
+    ],
+    "rhombus_fill": [
+      63428
+    ],
+    "rocket": [
+      63748
+    ],
+    "rocket_fill": [
+      63749
+    ],
+    "rosette": [
+      63429
+    ],
+    "rotate_left": [
+      63430
+    ],
+    "rotate_left_fill": [
+      63431
+    ],
+    "rotate_right": [
+      63432
+    ],
+    "rotate_right_fill": [
+      63433
+    ],
+    "scissors": [
+      63434
+    ],
+    "scissors_alt": [
+      63750
+    ],
+    "scope": [
+      63435
+    ],
+    "scribble": [
+      63436
+    ],
+    "search": [
+      62629
+    ],
+    "search_circle": [
+      63437
+    ],
+    "search_circle_fill": [
+      63438
+    ],
+    "selection_pin_in_out": [
+      63439
+    ],
+    "shield": [
+      63440
+    ],
+    "shield_fill": [
+      63441
+    ],
+    "shield_lefthalf_fill": [
+      63442
+    ],
+    "shield_slash": [
+      63443
+    ],
+    "shield_slash_fill": [
+      63444
+    ],
+    "shift": [
+      63445
+    ],
+    "shift_fill": [
+      63446
+    ],
+    "shuffle": [
+      62633,
+      62632,
+      61985
+    ],
+    "sidebar_left": [
+      63447
+    ],
+    "sidebar_right": [
+      63448
+    ],
+    "signature": [
+      63449
+    ],
+    "skew": [
+      63450
+    ],
+    "slash_circle": [
+      63451
+    ],
+    "slash_circle_fill": [
+      63452
+    ],
+    "slider_horizontal_3": [
+      63453
+    ],
+    "slider_horizontal_below_rectangle": [
+      63454
+    ],
+    "slowmo": [
+      63455
+    ],
+    "smallcircle_circle": [
+      63456
+    ],
+    "smallcircle_circle_fill": [
+      63457
+    ],
+    "smallcircle_fill_circle": [
+      63458
+    ],
+    "smallcircle_fill_circle_fill": [
+      63459
+    ],
+    "smiley": [
+      63460
+    ],
+    "smiley_fill": [
+      63461
+    ],
+    "smoke": [
+      63462
+    ],
+    "smoke_fill": [
+      63463
+    ],
+    "snow": [
+      63464
+    ],
+    "sort_down": [
+      63751
+    ],
+    "sort_down_circle": [
+      63752
+    ],
+    "sort_down_circle_fill": [
+      63753
+    ],
+    "sort_up": [
+      63754
+    ],
+    "sort_up_circle": [
+      63755
+    ],
+    "sort_up_circle_fill": [
+      63756
+    ],
+    "sparkles": [
+      63465
+    ],
+    "speaker": [
+      63466
+    ],
+    "speaker_1": [
+      63467
+    ],
+    "speaker_1_fill": [
+      62391
+    ],
+    "speaker_2": [
+      63468
+    ],
+    "speaker_2_fill": [
+      63469
+    ],
+    "speaker_3": [
+      63470
+    ],
+    "speaker_3_fill": [
+      62394
+    ],
+    "speaker_fill": [
+      62392
+    ],
+    "speaker_slash": [
+      63471
+    ],
+    "speaker_slash_fill": [
+      62393
+    ],
+    "speaker_slash_fill_rtl": [
+      63472
+    ],
+    "speaker_slash_rtl": [
+      63473
+    ],
+    "speaker_zzz": [
+      63474
+    ],
+    "speaker_zzz_fill": [
+      63475
+    ],
+    "speaker_zzz_fill_rtl": [
+      63476
+    ],
+    "speaker_zzz_rtl": [
+      63477
+    ],
+    "speedometer": [
+      63478
+    ],
+    "sportscourt": [
+      63479
+    ],
+    "sportscourt_fill": [
+      63480
+    ],
+    "square": [
+      63481
+    ],
+    "square_arrow_down": [
+      63482
+    ],
+    "square_arrow_down_fill": [
+      63483
+    ],
+    "square_arrow_down_on_square": [
+      63484
+    ],
+    "square_arrow_down_on_square_fill": [
+      63485
+    ],
+    "square_arrow_left": [
+      63757
+    ],
+    "square_arrow_left_fill": [
+      63758
+    ],
+    "square_arrow_right": [
+      63759
+    ],
+    "square_arrow_right_fill": [
+      63760
+    ],
+    "square_arrow_up": [
+      62666,
+      61984
+    ],
+    "square_arrow_up_fill": [
+      62667
+    ],
+    "square_arrow_up_on_square": [
+      63486
+    ],
+    "square_arrow_up_on_square_fill": [
+      63487
+    ],
+    "square_favorites": [
+      63761
+    ],
+    "square_favorites_alt": [
+      63762
+    ],
+    "square_favorites_alt_fill": [
+      63763
+    ],
+    "square_favorites_fill": [
+      63764
+    ],
+    "square_fill": [
+      63488
+    ],
+    "square_fill_line_vertical_square": [
+      63489
+    ],
+    "square_fill_line_vertical_square_fill": [
+      63490
+    ],
+    "square_fill_on_circle_fill": [
+      63491
+    ],
+    "square_fill_on_square_fill": [
+      63492
+    ],
+    "square_grid_2x2": [
+      63493
+    ],
+    "square_grid_2x2_fill": [
+      63494
+    ],
+    "square_grid_3x2": [
+      63495
+    ],
+    "square_grid_3x2_fill": [
+      63496
+    ],
+    "square_grid_4x3_fill": [
+      63497
+    ],
+    "square_lefthalf_fill": [
+      63498
+    ],
+    "square_line_vertical_square": [
+      63499
+    ],
+    "square_line_vertical_square_fill": [
+      63500
+    ],
+    "square_list": [
+      63765
+    ],
+    "square_list_fill": [
+      63766
+    ],
+    "square_on_circle": [
+      63501
+    ],
+    "square_on_square": [
+      63502
+    ],
+    "square_pencil": [
+      62487
+    ],
+    "square_pencil_fill": [
+      62488
+    ],
+    "square_righthalf_fill": [
+      63503
+    ],
+    "square_split_1x2": [
+      63504
+    ],
+    "square_split_1x2_fill": [
+      63505
+    ],
+    "square_split_2x1": [
+      63506
+    ],
+    "square_split_2x1_fill": [
+      63507
+    ],
+    "square_split_2x2": [
+      63508
+    ],
+    "square_split_2x2_fill": [
+      63509
+    ],
+    "square_stack": [
+      63510
+    ],
+    "square_stack_3d_down_dottedline": [
+      63511
+    ],
+    "square_stack_3d_down_right": [
+      63512
+    ],
+    "square_stack_3d_down_right_fill": [
+      63513
+    ],
+    "square_stack_3d_up": [
+      63514
+    ],
+    "square_stack_3d_up_fill": [
+      63515
+    ],
+    "square_stack_3d_up_slash": [
+      63516
+    ],
+    "square_stack_3d_up_slash_fill": [
+      63517
+    ],
+    "square_stack_fill": [
+      63518
+    ],
+    "squares_below_rectangle": [
+      63519
+    ],
+    "star": [
+      63520
+    ],
+    "star_circle": [
+      63521
+    ],
+    "star_circle_fill": [
+      63522
+    ],
+    "star_fill": [
+      63523
+    ],
+    "star_lefthalf_fill": [
+      63524
+    ],
+    "star_slash": [
+      63525
+    ],
+    "star_slash_fill": [
+      63526
+    ],
+    "staroflife": [
+      63527
+    ],
+    "staroflife_fill": [
+      63528
+    ],
+    "stop": [
+      63529
+    ],
+    "stop_circle": [
+      63530
+    ],
+    "stop_circle_fill": [
+      63531
+    ],
+    "stop_fill": [
+      63532
+    ],
+    "stopwatch": [
+      63533
+    ],
+    "stopwatch_fill": [
+      63534
+    ],
+    "strikethrough": [
+      63535
+    ],
+    "suit_club": [
+      63536
+    ],
+    "suit_club_fill": [
+      63537
+    ],
+    "suit_diamond": [
+      63538
+    ],
+    "suit_diamond_fill": [
+      63539
+    ],
+    "suit_heart": [
+      63540
+    ],
+    "suit_heart_fill": [
+      63541
+    ],
+    "suit_spade": [
+      63542
+    ],
+    "suit_spade_fill": [
+      63543
+    ],
+    "sum": [
+      63544
+    ],
+    "sun_dust": [
+      63545
+    ],
+    "sun_dust_fill": [
+      63546
+    ],
+    "sun_haze": [
+      63547
+    ],
+    "sun_haze_fill": [
+      63548
+    ],
+    "sun_max": [
+      62646
+    ],
+    "sun_max_fill": [
+      62647
+    ],
+    "sun_min": [
+      63549
+    ],
+    "sun_min_fill": [
+      63550
+    ],
+    "sunrise": [
+      63551
+    ],
+    "sunrise_fill": [
+      63552
+    ],
+    "sunset": [
+      63553
+    ],
+    "sunset_fill": [
+      63554
+    ],
+    "t_bubble": [
+      63555
+    ],
+    "t_bubble_fill": [
+      63556
+    ],
+    "table": [
+      63557
+    ],
+    "table_badge_more": [
+      63558
+    ],
+    "table_badge_more_fill": [
+      63559
+    ],
+    "table_fill": [
+      63560
+    ],
+    "tag": [
+      62604,
+      62606
+    ],
+    "tag_circle": [
+      63561
+    ],
+    "tag_circle_fill": [
+      63562
+    ],
+    "tag_fill": [
+      62605,
+      62607
+    ],
+    "text_aligncenter": [
+      63563
+    ],
+    "text_alignleft": [
+      63564
+    ],
+    "text_alignright": [
+      63565
+    ],
+    "text_append": [
+      63566
+    ],
+    "text_badge_checkmark": [
+      63567
+    ],
+    "text_badge_minus": [
+      63568
+    ],
+    "text_badge_plus": [
+      63569
+    ],
+    "text_badge_star": [
+      63570
+    ],
+    "text_badge_xmark": [
+      63571
+    ],
+    "text_bubble": [
+      63572
+    ],
+    "text_bubble_fill": [
+      63573
+    ],
+    "text_cursor": [
+      63574
+    ],
+    "text_insert": [
+      63575
+    ],
+    "text_justify": [
+      63576
+    ],
+    "text_justifyleft": [
+      63577
+    ],
+    "text_justifyright": [
+      63578
+    ],
+    "text_quote": [
+      63579
+    ],
+    "textbox": [
+      63580
+    ],
+    "textformat": [
+      63581
+    ],
+    "textformat_123": [
+      63582
+    ],
+    "textformat_abc": [
+      63583
+    ],
+    "textformat_abc_dottedunderline": [
+      63584
+    ],
+    "textformat_alt": [
+      63585
+    ],
+    "textformat_size": [
+      63586
+    ],
+    "textformat_subscript": [
+      63587
+    ],
+    "textformat_superscript": [
+      63588
+    ],
+    "thermometer": [
+      63589
+    ],
+    "thermometer_snowflake": [
+      63590
+    ],
+    "thermometer_sun": [
+      63591
+    ],
+    "ticket": [
+      63767
+    ],
+    "ticket_fill": [
+      63768
+    ],
+    "tickets": [
+      63769
+    ],
+    "tickets_fill": [
+      63770
+    ],
+    "timelapse": [
+      63592
+    ],
+    "timer": [
+      63593
+    ],
+    "timer_fill": [
+      63771
+    ],
+    "today": [
+      63772
+    ],
+    "today_fill": [
+      63773
+    ],
+    "tornado": [
+      63594
+    ],
+    "tortoise": [
+      63595
+    ],
+    "tortoise_fill": [
+      63596
+    ],
+    "train_style_one": [
+      62383
+    ],
+    "train_style_two": [
+      62388
+    ],
+    "tram_fill": [
+      63597
+    ],
+    "trash": [
+      62660,
+      62335
+    ],
+    "trash_circle": [
+      63598
+    ],
+    "trash_circle_fill": [
+      63599
+    ],
+    "trash_fill": [
+      62661
+    ],
+    "trash_slash": [
+      63600
+    ],
+    "trash_slash_fill": [
+      63601
+    ],
+    "tray": [
+      63602
+    ],
+    "tray_2": [
+      63603
+    ],
+    "tray_2_fill": [
+      63604
+    ],
+    "tray_arrow_down": [
+      63605
+    ],
+    "tray_arrow_down_fill": [
+      63606
+    ],
+    "tray_arrow_up": [
+      63607
+    ],
+    "tray_arrow_up_fill": [
+      63608
+    ],
+    "tray_fill": [
+      63609
+    ],
+    "tray_full": [
+      63610
+    ],
+    "tray_full_fill": [
+      63611
+    ],
+    "tree": [
+      63774
+    ],
+    "triangle": [
+      63612
+    ],
+    "triangle_fill": [
+      63613
+    ],
+    "triangle_lefthalf_fill": [
+      63614
+    ],
+    "triangle_righthalf_fill": [
+      63615
+    ],
+    "tropicalstorm": [
+      63616
+    ],
+    "tuningfork": [
+      63617
+    ],
+    "tv": [
+      63618
+    ],
+    "tv_circle": [
+      63619
+    ],
+    "tv_circle_fill": [
+      63620
+    ],
+    "tv_fill": [
+      63621
+    ],
+    "tv_music_note": [
+      63622
+    ],
+    "tv_music_note_fill": [
+      63623
+    ],
+    "uiwindow_split_2x1": [
+      63624
+    ],
+    "umbrella": [
+      63625
+    ],
+    "umbrella_fill": [
+      63626
+    ],
+    "underline": [
+      63627
+    ],
+    "upload_circle": [
+      63775
+    ],
+    "upload_circle_fill": [
+      63776
+    ],
+    "videocam": [
+      62668
+    ],
+    "videocam_circle": [
+      63777
+    ],
+    "videocam_circle_fill": [
+      63778
+    ],
+    "videocam_fill": [
+      62669
+    ],
+    "view_2d": [
+      63628
+    ],
+    "view_3d": [
+      63629
+    ],
+    "viewfinder": [
+      63630
+    ],
+    "viewfinder_circle": [
+      63631
+    ],
+    "viewfinder_circle_fill": [
+      63632
+    ],
+    "wand_rays": [
+      63633
+    ],
+    "wand_rays_inverse": [
+      63634
+    ],
+    "wand_stars": [
+      63635
+    ],
+    "wand_stars_inverse": [
+      63636
+    ],
+    "waveform": [
+      63637
+    ],
+    "waveform_circle": [
+      63638
+    ],
+    "waveform_circle_fill": [
+      63639
+    ],
+    "waveform_path": [
+      63640
+    ],
+    "waveform_path_badge_minus": [
+      63641
+    ],
+    "waveform_path_badge_plus": [
+      63642
+    ],
+    "waveform_path_ecg": [
+      63643
+    ],
+    "wifi": [
+      63644
+    ],
+    "wifi_exclamationmark": [
+      63645
+    ],
+    "wifi_slash": [
+      63646
+    ],
+    "wind": [
+      63647
+    ],
+    "wind_snow": [
+      63648
+    ],
+    "wrench": [
+      63649
+    ],
+    "wrench_fill": [
+      63650
+    ],
+    "xmark": [
+      62468,
+      62167
+    ],
+    "xmark_circle": [
+      62469
+    ],
+    "xmark_circle_fill": [
+      62318,
+      62470
+    ],
+    "xmark_octagon": [
+      63651
+    ],
+    "xmark_octagon_fill": [
+      63652
+    ],
+    "xmark_rectangle": [
+      63653
+    ],
+    "xmark_rectangle_fill": [
+      63654
+    ],
+    "xmark_seal": [
+      63655
+    ],
+    "xmark_seal_fill": [
+      63656
+    ],
+    "xmark_shield": [
+      63657
+    ],
+    "xmark_shield_fill": [
+      63658
+    ],
+    "xmark_square": [
+      63659
+    ],
+    "xmark_square_fill": [
+      63660
+    ],
+    "zoom_in": [
+      63661
+    ],
+    "zoom_out": [
+      63662
+    ],
+    "zzz": [
+      63663
+    ]
+  }
+}
