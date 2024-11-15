@@ -436,14 +436,14 @@ class MockAdsManager extends _i1.Mock implements _i2.AdsManager {
       ) as _i4.Future<void>);
 
   @override
-  _i4.Future<List<double?>> getAdCuePoints() => (super.noSuchMethod(
+  _i4.Future<List<double>> getAdCuePoints() => (super.noSuchMethod(
         Invocation.method(
           #getAdCuePoints,
           [],
         ),
-        returnValue: _i4.Future<List<double?>>.value(<double?>[]),
-        returnValueForMissingStub: _i4.Future<List<double?>>.value(<double?>[]),
-      ) as _i4.Future<List<double?>>);
+        returnValue: _i4.Future<List<double>>.value(<double>[]),
+        returnValueForMissingStub: _i4.Future<List<double>>.value(<double>[]),
+      ) as _i4.Future<List<double>>);
 
   @override
   _i4.Future<void> resume() => (super.noSuchMethod(
@@ -520,10 +520,64 @@ class MockAdsManager extends _i1.Mock implements _i2.AdsManager {
       ) as _i4.Future<void>);
 
   @override
-  _i4.Future<void> init() => (super.noSuchMethod(
+  _i4.Future<void> init(_i2.AdsRenderingSettings? settings) =>
+      (super.noSuchMethod(
         Invocation.method(
           #init,
+          [settings],
+        ),
+        returnValue: _i4.Future<void>.value(),
+        returnValueForMissingStub: _i4.Future<void>.value(),
+      ) as _i4.Future<void>);
+
+  @override
+  _i4.Future<void> focus() => (super.noSuchMethod(
+        Invocation.method(
+          #focus,
           [],
+        ),
+        returnValue: _i4.Future<void>.value(),
+        returnValueForMissingStub: _i4.Future<void>.value(),
+      ) as _i4.Future<void>);
+
+  @override
+  _i4.Future<_i2.AdProgressInfo?> getAdProgressInfo() => (super.noSuchMethod(
+        Invocation.method(
+          #getAdProgressInfo,
+          [],
+        ),
+        returnValue: _i4.Future<_i2.AdProgressInfo?>.value(),
+        returnValueForMissingStub: _i4.Future<_i2.AdProgressInfo?>.value(),
+      ) as _i4.Future<_i2.AdProgressInfo?>);
+
+  @override
+  _i4.Future<_i2.Ad?> getCurrentAd() => (super.noSuchMethod(
+        Invocation.method(
+          #getCurrentAd,
+          [],
+        ),
+        returnValue: _i4.Future<_i2.Ad?>.value(),
+        returnValueForMissingStub: _i4.Future<_i2.Ad?>.value(),
+      ) as _i4.Future<_i2.Ad?>);
+
+  @override
+  _i4.Future<void> removeAdErrorListener(_i2.AdErrorListener? errorListener) =>
+      (super.noSuchMethod(
+        Invocation.method(
+          #removeAdErrorListener,
+          [errorListener],
+        ),
+        returnValue: _i4.Future<void>.value(),
+        returnValueForMissingStub: _i4.Future<void>.value(),
+      ) as _i4.Future<void>);
+
+  @override
+  _i4.Future<void> removeAdEventListener(
+          _i2.AdEventListener? adEventListener) =>
+      (super.noSuchMethod(
+        Invocation.method(
+          #removeAdEventListener,
+          [adEventListener],
         ),
         returnValue: _i4.Future<void>.value(),
         returnValueForMissingStub: _i4.Future<void>.value(),
