@@ -6,7 +6,6 @@ import 'dart:io' show File, Platform;
 
 import 'package:collection/collection.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:path/path.dart' as path;
@@ -22,28 +21,34 @@ const int iconsPerImage = iconsPerRow * iconsPerCol;
 void main() async {
   // Do not run on web since this test uses dart:io.
   // The golden test runs on Linux only to avoid platform rendering differences.
-  if (kIsWeb || !Platform.isLinux) {
-    return;
-  }
-  final bool isMainChannel = !Platform.environment.containsKey('CHANNEL')
-    || Platform.environment['CHANNEL'] == 'main'
-    || Platform.environment['CHANNEL'] == 'master';
-  // Only test against main to avoid rendering differences between flutter channels.
-  if (!isMainChannel) {
-    return;
-  }
+  // if (kIsWeb || !Platform.isLinux) {
+  //   return;
+  // }
+  // final bool isMainChannel = !Platform.environment.containsKey('CHANNEL')
+  //   || Platform.environment['CHANNEL'] == 'main'
+  //   || Platform.environment['CHANNEL'] == 'master';
+  // // Only test against main to avoid rendering differences between flutter channels.
+  // if (!isMainChannel) {
+  //   return;
+  // }
   // Load font.
-  final String effectiveFontFamily = const TextStyle(fontFamily: CupertinoIcons.iconFont, package: CupertinoIcons.iconFontPackage).fontFamily!;
+  final String effectiveFontFamily = const TextStyle(
+          fontFamily: CupertinoIcons.iconFont,
+          package: CupertinoIcons.iconFontPackage)
+      .fontFamily!;
   final FontLoader fontLoader = FontLoader(effectiveFontFamily);
-  final String filePath = path.canonicalize('assets/CupertinoIcons.ttf');
+  final String filePath = path.canonicalize('assets/CupertinoIcons_hinted.ttf');
   final File file = File(filePath);
-  fontLoader.addFont(file.readAsBytes().then((Uint8List v) => v.buffer.asByteData()));
+  fontLoader
+      .addFont(file.readAsBytes().then((Uint8List v) => v.buffer.asByteData()));
   await fontLoader.load();
 
   assert(icons.isNotEmpty);
   for (int index = 0; index < icons.length;) {
-    final int groupEndCodePoint = (icons[index].codePoint ~/ iconsPerImage + 1) * iconsPerImage;
-    final int next = icons.indexWhere((IconData icon) => icon.codePoint >= groupEndCodePoint, index);
+    final int groupEndCodePoint =
+        (icons[index].codePoint ~/ iconsPerImage + 1) * iconsPerImage;
+    final int next = icons.indexWhere(
+        (IconData icon) => icon.codePoint >= groupEndCodePoint, index);
     final int nextIndex = next < 0 ? icons.length : next;
     registerTestForIconGroup(icons.slice(index, nextIndex));
     index = nextIndex;
@@ -56,19 +61,24 @@ void main() async {
 // symbols are added or removed.
 void registerTestForIconGroup(List<IconData> iconGroup) {
   assert(iconGroup.isNotEmpty);
-  String hexCodePoint(int codePoint) => codePoint.toRadixString(16).toUpperCase().padLeft(4, '0');
-  final int groupStartCodePoint = (iconGroup.first.codePoint ~/ iconsPerImage) * iconsPerImage;
-  final String range = 'U+${hexCodePoint(groupStartCodePoint)}-${hexCodePoint(groupStartCodePoint + iconsPerImage - 1)}';
+  String hexCodePoint(int codePoint) =>
+      codePoint.toRadixString(16).toUpperCase().padLeft(4, '0');
+  final int groupStartCodePoint =
+      (iconGroup.first.codePoint ~/ iconsPerImage) * iconsPerImage;
+  final String range =
+      'U+${hexCodePoint(groupStartCodePoint)}-${hexCodePoint(groupStartCodePoint + iconsPerImage - 1)}';
 
   testWidgets('font golden test: $range', (WidgetTester tester) async {
     addTearDown(tester.view.reset);
-    const Size canvasSize = Size(iconSize * iconsPerRow, iconSize * iconsPerCol);
+    const Size canvasSize =
+        Size(iconSize * iconsPerRow, iconSize * iconsPerCol);
     tester.view.physicalSize = canvasSize * tester.view.devicePixelRatio;
 
     const Widget fillerBox = SizedBox.square(dimension: iconSize);
     final List<Widget> children = List<Widget>.filled(iconsPerImage, fillerBox);
     for (final IconData icon in iconGroup) {
-      children[icon.codePoint - groupStartCodePoint] = Icon(icon, size: iconSize);
+      children[icon.codePoint - groupStartCodePoint] =
+          Icon(icon, size: iconSize);
     }
 
     final Widget widget = Directionality(
@@ -82,6 +92,7 @@ void registerTestForIconGroup(List<IconData> iconGroup) {
       ),
     );
     await tester.pumpWidget(widget);
-    await expectLater(find.byType(Wrap) , matchesGoldenFile('goldens/glyph_$range.png'));
+    await expectLater(
+        find.byType(Wrap), matchesGoldenFile('goldens/glyph_$range.png'));
   });
 }
